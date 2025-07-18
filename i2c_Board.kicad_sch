@@ -6,8 +6,6 @@
 	(paper "A4")
 	(title_block
 		(title "I2C Testing Board")
-		(comment 1 "Add Connector Pin")
-		(comment 2 "Add Custom Name to PCB")
 	)
 	(lib_symbols
 		(symbol "BAT-HLD-002-SMT:BAT-HLD-002-SMT"
@@ -4162,7 +4160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 97.79 50.038 90)
 			(effects
 				(font
@@ -4921,7 +4919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 63.5 80.518 90)
 			(effects
 				(font
