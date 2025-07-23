@@ -440,7 +440,7 @@
 				)
 			)
 		)
-		(property "Value" "6n"
+		(property "Value" "6p"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "b367c318-d2bf-4b37-a136-1b84e03a8fd6")
@@ -1289,7 +1289,7 @@
 				)
 			)
 		)
-		(property "Value" "6n"
+		(property "Value" "6p"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "30427a3b-86d3-4df4-8513-2de1fa191083")

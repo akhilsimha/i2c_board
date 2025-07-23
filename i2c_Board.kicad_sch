@@ -3938,18 +3938,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "17bd2ee6-bb26-4b01-adf0-b32c759063b6")
 		(property "Reference" "C2"
-			(at 115.57 66.04 90)
+			(at 115.57 68.072 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "6n"
-			(at 115.57 68.58 90)
+		(property "Value" "6p"
+			(at 115.57 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5469,7 +5468,7 @@
 				)
 			)
 		)
-		(property "Value" "6n"
+		(property "Value" "6p"
 			(at 115.57 57.404 90)
 			(effects
 				(font
