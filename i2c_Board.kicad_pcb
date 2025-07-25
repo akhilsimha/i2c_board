@@ -4710,7 +4710,7 @@
 		(uuid "660f36f3-7636-4f62-aa99-cc13616eecc6")
 		(at 152.94 91.89 90)
 		(property "Reference" "BT1"
-			(at -11.82 -6.66 360)
+			(at -11.82 -6.66 0)
 			(layer "B.SilkS")
 			(uuid "7dff3d28-1ac1-482b-8b91-3aece0f31374")
 			(effects
@@ -5089,6 +5089,28 @@
 			(solder_mask_margin 0.102)
 			(uuid "0befff7d-565b-4dd0-923e-fdd9dc7fa9d5")
 		)
+	)
+	(gr_rect
+		(start 138.23 72.69)
+		(end 166.72 110.87)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "fdaeadcf-0968-4e3e-884b-3900f622ea27")
+	)
+	(gr_rect
+		(start 138.23 72.69)
+		(end 166.72 110.87)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "01579b14-fee9-42aa-a6d4-c81924c19d49")
 	)
 	(gr_rect
 		(start 137.72 72.1975)
