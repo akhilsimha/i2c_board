@@ -5641,7 +5641,7 @@
 	)
 	(symbol
 		(lib_id "BAT-HLD-002-SMT:BAT-HLD-002-SMT")
-		(at 96.52 54.61 180)
+		(at 96.52 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5649,7 +5649,7 @@
 		(dnp no)
 		(uuid "cf3df82f-6923-4f68-b644-79215cb8e147")
 		(property "Reference" "BT1"
-			(at 93.218 56.642 0)
+			(at 99.822 52.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5657,7 +5657,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 97.028 58.42 0)
+			(at 96.012 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
